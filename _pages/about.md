@@ -16,18 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-PhD student under the supervision of [Julie Delon](https://judelo.github.io/) and [Agnès Desolneux](https://desolneux.perso.math.cnrs.fr/).
+PhD student under the supervision of [Antoine Chambaz](https://helios2.mi.parisdescartes.fr/~chambaz/), [Christophe Denis](https://perso.math.u-pem.fr/denis.christophe/) and [Mohamed Hebiri](https://perso.math.u-pem.fr/hebiri.mohamed/).
 
-I study Optimal Transport, in particular Generalised Wasserstein Barycentres, the Sliced Wasserstein Distance and GMM-restricted OT. 
+I study Algorithmic Fairness for Multiclass Classification and Causal Frameworks. 
 
-After my studies at [Ecole Polytechnique](https://www.polytechnique.edu/) (cycle
-ingénieur), I took the [Masters in Mathematics, Vision and
-Learning](https://www.master-mva.com/) ("MVA" in French), where I took [Gabriel
-Peyré](http://www.gpeyre.com/)'s "Optimal Transport" course. Enthralled, I took
-a project on [A Wasserstein distance between
-GMMs](https://hal.archives-ouvertes.fr/hal-02178204v4/document). This led me to
-an internship with Julie Delon and [Rémi
-Flamary](https://remi.flamary.com/index.fr.html) on [Generalised Wasserstein
-Barycentres](https://arxiv.org/pdf/2105.09755.pdf). This internship finished in
-September 2022, and I am now continuing this work and branching back to GMM-OT
-and Sliced Wasserstein during my PhD.
+After a double Bachelor's program at [Universit\'e Paris Cit\'e](https://u-paris.fr/), I went for a [Part III (Master of Advanced Studies)](https://www.maths.cam.ac.uk/postgrad/part-iii/prospective.html) in Mathematical Statistics at the [University of Cambridge](https://www.cam.ac.uk/) and the [M2A (Master 2 in Algorithms and Learning)](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-mathematiques-et-applications/m2-parcours-5) at [Sorbonne Universit\'e](https://sciences.sorbonne-universite.fr/). During my time at [University of Cambridge](https://www.cam.ac.uk/), I wrote my Part III Essay on Missing and Unmeasurable Data, under the supervision of Professor [John Aston](https://www.maths.cam.ac.uk/person/jada2). My studies were brought to completion by undergoing a research internship on Set-Valued Classification under Fairness Constraints, under the supervision of [Christophe Denis](https://perso.math.u-pem.fr/denis.christophe/) and [Mohamed Hebiri](https://perso.math.u-pem.fr/hebiri.mohamed/).
