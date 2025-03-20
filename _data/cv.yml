@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 19th December 2001
     - name: Languages
-      value: English, French, Spanish, <small> Hebrew, <\small>
+      value: English, French, Spanish, <small> Hebrew <\small>
     - name: Contact
       value: eyal.cohen 'at' lpsm 'dot' paris
 

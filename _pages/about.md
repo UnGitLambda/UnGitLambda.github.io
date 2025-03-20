@@ -8,7 +8,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>725C1, MAP5, Université Paris-Cité</p>
+    <p>15-16-208, LPSM, Sorbonne Université</p>
+    <p>4, place Jussieu, 75252 PARIS CEDEX 05, FRANCE</p>
+    <hr>
+    <p>725A1, MAP5, Université Paris-Cité</p>
     <p>45, rue des Saints Pères, 75270 Paris Cedex 06, FRANCE</p>
 
 news: false  # includes a list of news items
