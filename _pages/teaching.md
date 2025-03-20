@@ -10,6 +10,10 @@ nav_order: 5
 ### Université Paris Cité
 #### Mathématiques et Calcul 2 2024-2025
  Chargé de TD du groupe TD 7, Licence 1 - Maths-Info.
+
+#### Groupes de Projets Informatiques
+ Projet de Robotique: INMOOV: Animer une partie du corps (main)
+ Projet de Machine Learning: Introduction au machine learning avec Spaceship Titanic (Kaggle)
  <!-- Mettre les interros, corrections et possiblement exercices de TD + correction. -->
 
 <!--  
