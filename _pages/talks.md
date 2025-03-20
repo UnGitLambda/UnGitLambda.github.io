@@ -7,6 +7,9 @@ nav: true
 nav_order: 6
 ---
 
+### Upcoming
+ <!-- - 02/06/2025 - 06/06/2025: [56eme Journées des Statistiques](https://jds2025.sciencesconf.org/), [Submission](https://ungitlambda.github.io/404.html) -->
+<!-- 
 - 06/03/2025 [Applied Mathematics
   Seminar](https://cermics-lab.enpc.fr/seminaires/seminaire-du-laboratoire/),
   [CERMICS](https://cermics-lab.enpc.fr/),
@@ -98,4 +101,4 @@ nav_order: 6
 - 28/02/2022 MAP5, Séminaire des Doctorants, 
 
   *Generalised Wasserstein
-  Barycenters and the Sliced Wasserstein Distance*
+  Barycenters and the Sliced Wasserstein Distance* -->

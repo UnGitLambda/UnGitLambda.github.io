@@ -7,6 +7,12 @@ nav: true
 nav_order: 5
 ---
 
+### Université Paris Cité
+#### Mathématiques et Calcul 2 2024-2025
+ Chargé de TD du groupe TD 7, Licence 1 - Maths-Info.
+ <!-- Mettre les interros, corrections et possiblement exercices de TD + correction. -->
+
+<!--  
 ### Master MVA
 
 Project supervisor for the [Imaging](https://perso.telecom-paristech.fr/gousseau/MVA/) and [Generative Modelling](https://generativemodelingmva.github.io/) courses.
@@ -45,4 +51,4 @@ Chargé de TD Maths et Calcul 1 (License 1 Maths-Info): [Moodle](https://moodle.
 
 ### Institut de Technologie du Cambodge
 
-2018-2019: TA teaching gifted undergrad students full-time for the preparation of the entry exam to Ecole Polytechnique: [course notes](https://eloitanguy.github.io/assets/pdf/prep_class.pdf).
+2018-2019: TA teaching gifted undergrad students full-time for the preparation of the entry exam to Ecole Polytechnique: [course notes](https://eloitanguy.github.io/assets/pdf/prep_class.pdf). -->
