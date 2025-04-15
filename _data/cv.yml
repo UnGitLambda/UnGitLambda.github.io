@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Eyal Cohn
+      value: Eyal Haïm Cohn
     - name: Date of Birth
       value: 19th December 2001
     - name: Languages
-      value: English, French, Spanish, <small> Hebrew <\small>
+      value: English, French, Spanish, <small> Hebrew
     - name: Contact
       value: eyal.cohen 'at' lpsm 'dot' paris
 
@@ -20,7 +20,7 @@
         - Algorithmic Fairness for Multiclass Classification with a hint of Causal Inference.
         - title: Under the supervision of
           contents:
-            - Gérard Biau (Professeur des Universités, Directeur de SCAI, LPSM, Sorbonne Université)
+            # - Gérard Biau (Professeur des Universités, Directeur de SCAI, LPSM, Sorbonne Université)
             - Antoine Chambaz (Professeur des Universités, Directeur du MAP5, Université Paris-Cité)
             - Christophe Denis (Professeur des Universités, SAMM, Université Paris 1 Panthéon-Sorbonne)
             - Mohamed Hebiri (Maître de conférences, LAMA, Université Gustave Eiffel)
