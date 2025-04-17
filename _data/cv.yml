@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Eyal Haïm Cohn
+      value: Eyal Haïm Cohen
     - name: Date of Birth
       value: 19th December 2001
     - name: Languages
@@ -44,10 +44,8 @@
         - Information Theory
         - title: Essay
           contents:
-            - title: Title
-              value: Missing Data - Measure the Unmeasurable
-            - title: Supervised by
-              value: John Aston (Pro-Vice Chancellor of Research, Professor, University of Cambridge)
+            - Missing Data - Measure the Unmeasurable
+            - Supervised by Professor John Aston (Pro-Vice Chancellor of Research, University of Cambridge)
     - title: Bachelor's Degree
       institution: Double Bachelor's Degree in Mathematics and Computer Science, Unviersité Paris-Cité
 

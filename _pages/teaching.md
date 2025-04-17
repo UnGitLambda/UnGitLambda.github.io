@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: #Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
@@ -12,6 +12,6 @@ nav_order: 5
  Chargé de TD du groupe TD 7, Licence 1 - Maths-Info.
 <!-- Mettre les interros, corrections et possiblement exercices de TD + correction. -->
 
-#### Groupes de Projets Informatiques
+#### Groupes de Projets Informatique
  Projet de Robotique: INMOOV: Animer une partie du corps (main)
  Projet de Machine Learning: Introduction au machine learning avec Spaceship Titanic (Kaggle)
