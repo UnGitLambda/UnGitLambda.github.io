@@ -50,6 +50,22 @@
       year: 2019-2022
       institution: Double Bachelor's Degree in Mathematics and Computer Science, Université Paris-Cité
 
+# - title: Community Involvement
+#   type: time_table
+#   contents:
+#     - title: MIBDE
+#       institution: Mathématiques et Informatique Bureau des Étudiants (MIBDE), Université Paris-Cité
+#       year: 2021-2023
+#       description: Event Organizer
+#     - title: Homerton Changemakers
+#       institution: Homerton College, University of Cambridge
+#       year: 2022-2024
+#       description: Student Ambassador
+#     - title: Groupe Jeune SFdS
+#       institution: Société Française de Statistique (SFdS)
+#       year: 2025-present
+#       description: Member of the Young Statisticians Group
+
 - title: Experience
   type: time_table
   contents:
